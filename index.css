@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px; 
+}
